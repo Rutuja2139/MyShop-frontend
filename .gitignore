@@ -1,0 +1,15 @@
+# Local Environment
+.vscode/
+
+# System Files
+.DS_Store
+Thumbs.db
+
+# If you ever use npm/node
+node_modules/
+dist/
+.env
+
+# Temporary files
+*.tmp
+*.bak
