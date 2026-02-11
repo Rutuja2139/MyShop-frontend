@@ -7,7 +7,7 @@ A high-end, responsive e-commerce interface built for a curated collection of ad
 
 ## 🛠️ Tech Stack
 - Styling: Tailwind CSS 3.0
-- Logic: Vanilla JavaScript (ES6+)
+- Logic:  JavaScript 
 - Icons/Fonts:Lucide Icons & Inter Typeface
 - State Management: LocalStorage for cart persistence
 
